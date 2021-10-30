@@ -1,5 +1,5 @@
-##Charizardavi's github site
+## Charizardavi's github site
 
->as you can seen, its not even close to being done
->its just here so I can work on it
->Hopefully it will be done soon :)
+- As you can see, its not even close to done
+- Im still working on it
+- Hopefully it will be done soon :)
